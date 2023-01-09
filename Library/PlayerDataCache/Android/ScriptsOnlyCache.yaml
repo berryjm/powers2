@@ -1,7 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - HiscoreScene
     - HomeScene
+    - OnPause
     - PlayScene
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -32,6 +34,55 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.InputField
     - UnityEngine.UI.Text
   sceneClasses:
+    Assets/HiscoreScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1544}
+    - Class: 114
+      Script: {instanceID: 2316}
+    - Class: 114
+      Script: {instanceID: 2756}
+    - Class: 114
+      Script: {instanceID: 2934}
+    - Class: 114
+      Script: {instanceID: 3192}
+    - Class: 114
+      Script: {instanceID: 3456}
+    - Class: 114
+      Script: {instanceID: 3580}
+    - Class: 114
+      Script: {instanceID: 3584}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/HomeScene.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -54,11 +105,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3192}
     - Class: 114
-      Script: {instanceID: 3454}
+      Script: {instanceID: 3456}
     - Class: 114
-      Script: {instanceID: 3580}
+      Script: {instanceID: 3584}
     - Class: 114
-      Script: {instanceID: 5534}
+      Script: {instanceID: 5538}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -103,9 +154,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3256}
     - Class: 114
-      Script: {instanceID: 3454}
+      Script: {instanceID: 3262}
     - Class: 114
-      Script: {instanceID: 3492}
+      Script: {instanceID: 3456}
+    - Class: 114
+      Script: {instanceID: 3494}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -323,6 +376,12 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OnPause
+  - hash:
+      serializedVersion: 2
       Hash: 9b2d72155209a515197b0788f9f11a91
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
@@ -375,6 +434,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 1319d8902082a46a4a23ee6b5f16e4d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HiscoreScene
   - hash:
       serializedVersion: 2
       Hash: 69415240821be7986b27e72bf9609a30
@@ -611,7 +676,7 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
-      Hash: d138e8d897243729439b231fe9419940
+      Hash: b01f16d7535098412e3a1ea0740eb964
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: HomeScene
@@ -653,6 +718,7 @@ ScriptsOnlyBuild:
     className: FabrikSolver2D
   platform: 13
   scenePathNames:
-  - Assets/PlayScene.unity
   - Assets/HomeScene.unity
+  - Assets/PlayScene.unity
+  - Assets/HiscoreScene.unity
   playerPath: /Users/miahome/PowersOf2/Powers2.apk

@@ -11,6 +11,7 @@ public class HomeScene : MonoBehaviour
     public Button timer1mButton;
     public Button timer30sButton;
     public Button playButton;
+    public Button hiscoreButton;
 
     void Start()
     {
@@ -30,6 +31,9 @@ public class HomeScene : MonoBehaviour
 
         // Add onClick event listener for the play button
         playButton.onClick.AddListener(LoadPlayScene);
+
+        // Add onClick event listener for the highscores button
+        hiscoreButton.onClick.AddListener(LoadHiscoreScene);
     }
 
     public void SetExpMode()
@@ -80,5 +84,10 @@ public class HomeScene : MonoBehaviour
 
         // Load the play scene
         SceneManager.LoadScene("PlayScene");
+    }
+
+    public void LoadHiscoreScene()
+    {
+        SceneManager.LoadScene("HiscoreScene");
     }
 }
