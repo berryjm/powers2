@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/HomeScene.unity
     guid: 4335d95671d644d978cfe5e01808dc8e
   - enabled: 1
-    path: Assets/PlayScene.unity
-    guid: 9b5d70d71088b4dc78db6166ca4ec205
-  - enabled: 1
     path: Assets/HiscoreScene.unity
     guid: adbeb3e93ba334e249e7381301edb7b1
+  - enabled: 1
+    path: Assets/PlayScene.unity
+    guid: 9b5d70d71088b4dc78db6166ca4ec205
   m_configObjects: {}

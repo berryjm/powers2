@@ -1,10 +1,15 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Banner
     - HiscoreScene
     - HomeScene
     - OnPause
     - PlayScene
+    GoogleMobileAds.Common.dll:
+    - GoogleMobileAds.Common.MobileAdsEventExecutor
+    GoogleMobileAds.Editor.dll:
+    - GoogleMobileAds.Editor.GoogleMobileAdsSettings
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
@@ -18,6 +23,8 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
     - UnityEditor.Tilemaps.TilemapPrefabStageHelper
+    Unity.Mobile.AndroidLogcat.Editor.dll:
+    - Unity.Android.Logcat.AndroidLogcatManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -67,6 +74,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3580}
     - Class: 114
       Script: {instanceID: 3584}
+    - Class: 114
+      Script: {instanceID: 18900}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -110,6 +119,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3584}
     - Class: 114
       Script: {instanceID: 5538}
+    - Class: 114
+      Script: {instanceID: 17934}
+    - Class: 114
+      Script: {instanceID: 18900}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -159,6 +172,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3456}
     - Class: 114
       Script: {instanceID: 3494}
+    - Class: 114
+      Script: {instanceID: 18900}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -716,9 +731,27 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: GoogleMobileAds.Common.dll
+    namespaceName: GoogleMobileAds.Common
+    className: MobileAdsEventExecutor
+  - hash:
+      serializedVersion: 2
+      Hash: bc8d0afeebc008570ffede5254e873af
+    assemblyName: GoogleMobileAds.Editor.dll
+    namespaceName: GoogleMobileAds.Editor
+    className: GoogleMobileAdsSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Banner
   platform: 13
   scenePathNames:
   - Assets/HomeScene.unity
-  - Assets/PlayScene.unity
   - Assets/HiscoreScene.unity
+  - Assets/PlayScene.unity
   playerPath: /Users/miahome/PowersOf2/Powers2.apk

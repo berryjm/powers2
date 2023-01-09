@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-81:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1db75491d3fa7339fedfce71472aca6c/androidx.arch.core.core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d65cb7c8efed3ac0d87582c278bb8c7e/androidx.browser.browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/androidx.coordinatorlayout.coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/androidx.customview.customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/androidx.drawerlayout.drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/androidx.fragment.fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/androidx.legacy.legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/androidx.lifecycle.lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/androidx.lifecycle.lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1d9150148237b789471f339a9a119a8c/androidx.lifecycle.lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/androidx.lifecycle.lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/androidx.slidingpanelayout.slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4aa96ba9b4a1bad32c45f9fda0b213ac/androidx.sqlite.sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8621afa19e14921a3ef938f03b26befc/androidx.sqlite.sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/androidx.versionedparcelable.versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:17:1-63:12
+MERGED from [:com.google.android.gms.play-services-ads-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/fe133fb6e5b93ba783612ed4ff2c1d7c/com.google.android.gms.play-services-ads-20.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-base-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/526b385248f38e7c1f21ffde74a3c3f5/com.google.android.gms.play-services-ads-base-20.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/346d5a4de9de9f191c81a5b0fc989c75/com.google.android.gms.play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:17:1-43:12
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a6686dd31413ae4086e9cc3efb793341/com.google.android.gms.play-services-measurement-base-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/com.google.android.gms.play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0be2e3a305e633ebbc006794ac118a13/com.google.android.ump.user-messaging-platform-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [:googlemobileads-unity:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/193325c41c348cd80d668ab78bbc25f0/googlemobileads-unity/AndroidManifest.xml:7:1-14:12
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-126
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:127-173
+	android:versionCode
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:174-214
+supports-screens
+ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-159
+MERGED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79:19
+MERGED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79:19
+MERGED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/androidx.versionedparcelable.versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/androidx.versionedparcelable.versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:22:3-62:17
+MERGED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:22:3-62:17
+MERGED from [:com.google.android.gms.play-services-ads-base-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/526b385248f38e7c1f21ffde74a3c3f5/com.google.android.gms.play-services-ads-base-20.2.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/526b385248f38e7c1f21ffde74a3c3f5/com.google.android.gms.play-services-ads-base-20.2.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/346d5a4de9de9f191c81a5b0fc989c75/com.google.android.gms.play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/346d5a4de9de9f191c81a5b0fc989c75/com.google.android.gms.play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:37:3-42:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:37:3-42:17
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a6686dd31413ae4086e9cc3efb793341/com.google.android.gms.play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a6686dd31413ae4086e9cc3efb793341/com.google.android.gms.play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/com.google.android.gms.play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/com.google.android.gms.play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-19:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:roundIcon
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:114-156
+	android:icon
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+uses-sdk
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1db75491d3fa7339fedfce71472aca6c/androidx.arch.core.core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1db75491d3fa7339fedfce71472aca6c/androidx.arch.core.core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d65cb7c8efed3ac0d87582c278bb8c7e/androidx.browser.browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d65cb7c8efed3ac0d87582c278bb8c7e/androidx.browser.browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/androidx.coordinatorlayout.coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/androidx.coordinatorlayout.coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/androidx.customview.customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/androidx.customview.customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/androidx.drawerlayout.drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/androidx.drawerlayout.drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/androidx.fragment.fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/androidx.fragment.fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/androidx.legacy.legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/androidx.legacy.legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/androidx.lifecycle.lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/androidx.lifecycle.lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/androidx.lifecycle.lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/androidx.lifecycle.lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1d9150148237b789471f339a9a119a8c/androidx.lifecycle.lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/1d9150148237b789471f339a9a119a8c/androidx.lifecycle.lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/androidx.lifecycle.lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/androidx.lifecycle.lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/androidx.slidingpanelayout.slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/androidx.slidingpanelayout.slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4aa96ba9b4a1bad32c45f9fda0b213ac/androidx.sqlite.sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4aa96ba9b4a1bad32c45f9fda0b213ac/androidx.sqlite.sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8621afa19e14921a3ef938f03b26befc/androidx.sqlite.sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/8621afa19e14921a3ef938f03b26befc/androidx.sqlite.sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/androidx.versionedparcelable.versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/androidx.versionedparcelable.versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.gms.play-services-ads-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/fe133fb6e5b93ba783612ed4ff2c1d7c/com.google.android.gms.play-services-ads-20.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/fe133fb6e5b93ba783612ed4ff2c1d7c/com.google.android.gms.play-services-ads-20.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-base-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/526b385248f38e7c1f21ffde74a3c3f5/com.google.android.gms.play-services-ads-base-20.2.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/526b385248f38e7c1f21ffde74a3c3f5/com.google.android.gms.play-services-ads-base-20.2.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/346d5a4de9de9f191c81a5b0fc989c75/com.google.android.gms.play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/346d5a4de9de9f191c81a5b0fc989c75/com.google.android.gms.play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a6686dd31413ae4086e9cc3efb793341/com.google.android.gms.play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/a6686dd31413ae4086e9cc3efb793341/com.google.android.gms.play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/com.google.android.gms.play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/com.google.android.gms.play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0be2e3a305e633ebbc006794ac118a13/com.google.android.ump.user-messaging-platform-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0be2e3a305e633ebbc006794ac118a13/com.google.android.ump.user-messaging-platform-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:googlemobileads-unity:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/193325c41c348cd80d668ab78bbc25f0/googlemobileads-unity/AndroidManifest.xml:10:5-44
+MERGED from [:googlemobileads-unity:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/193325c41c348cd80d668ab78bbc25f0/googlemobileads-unity/AndroidManifest.xml:10:5-44
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/fe133fb6e5b93ba783612ed4ff2c1d7c/com.google.android.gms.play-services-ads-20.2.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-67
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/193325c41c348cd80d668ab78bbc25f0/googlemobileads-unity/AndroidManifest.xml:12:5-67
+MERGED from [:googlemobileads-unity:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/193325c41c348cd80d668ab78bbc25f0/googlemobileads-unity/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-51:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-58:36
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:9-61:37
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:9-64:50
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-67:68
+	android:value
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-42
+receiver#com.unity.androidnotifications.UnityNotificationManager
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:9-71:39
+	android:exported
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-83
+receiver#com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:9-78:20
+	android:enabled
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-97
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-77:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:17-79
+	android:name
+		ADDED from [:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:25-76
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:19:3-66
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:19:20-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:20:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/2549bcfa06c8f861866d9930ad38466d/com.google.android.gms.play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:20:20-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:21:3-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:21:20-76
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:5-265
+	android:authorities
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:72-157
+	android:multiprocess
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:215-242
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:190-214
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:243-262
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:158-189
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:15-71
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:5-229
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:122-181
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:182-206
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:207-226
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:90-121
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:14-89
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:5-279
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:118-175
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:176-199
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:200-256
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:257-276
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:86-117
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:14-85
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:5-193
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:123-145
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:146-170
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:171-190
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:15-90
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:5-32:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:141-164
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:165-189
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:190-209
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:109-140
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:15-108
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:28:7-31:23
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:29:9-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:29:17-76
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:30:9-82
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:30:17-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:5-38:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:15-106
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:34:7-37:23
+action#android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:35:17-66
+action#android.intent.action.BATTERY_LOW
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:36:17-65
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:5-44:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:15-106
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:40:7-43:23
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:41:9-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:41:17-72
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:42:9-74
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:42:17-71
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:5-49:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:138-161
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:162-186
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:187-206
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:106-137
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:15-105
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:46:7-48:23
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:47:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:47:17-68
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:5-56:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:123-146
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:147-171
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:172-191
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:15-90
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:51:7-55:23
+action#android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:53:9-65
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:53:17-62
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:54:9-73
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:54:17-70
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:5-61:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:134-193
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:194-218
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:219-238
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:102-133
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:15-101
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:58:7-60:23
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:59:9-90
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/50c3b71423d32cf2c146d4761694caa5/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:59:17-87
+queries
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:23:3-36:13
+intent
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:25:5-29:14
+action#android.intent.action.VIEW
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:26:7-59
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:26:15-56
+category#android.intent.category.BROWSABLE
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:27:7-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:27:17-65
+data
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:28:7-38
+	android:scheme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:28:13-35
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:5-221
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:79-169
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:170-194
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:195-218
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:15-78
+service#com.google.android.gms.ads.AdService
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:5-116
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:66-88
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:89-113
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/e7b855479c6b7fa03906bb9c4e043b23/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:14-65
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+uses-library#org.apache.http.legacy
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:70
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-69

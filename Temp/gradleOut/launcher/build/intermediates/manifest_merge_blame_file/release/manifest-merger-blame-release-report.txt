@@ -53,105 +53,370 @@
 32        android:required="false" />
 32-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
 33
-34    <application
-34-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
-35        android:extractNativeLibs="true"
-35-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
-36        android:icon="@mipmap/app_icon"
-36-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
-37        android:label="@string/app_name" >
-37-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
-38        <activity
-38-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-48:20
-39            android:name="com.unity3d.player.UnityPlayerActivity"
-39-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-66
-40            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-40-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-194
-41            android:hardwareAccelerated="false"
-41-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-48
-42            android:launchMode="singleTask"
-42-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-44
-43            android:resizeableActivity="false"
-43-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-47
-44            android:screenOrientation="portrait"
-44-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-49
-45            android:theme="@style/UnityThemeSelector" >
-45-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-54
-46            <intent-filter>
-46-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-40:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:17-69
-47-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:17-77
-49-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:27-74
-50            </intent-filter>
-51
-52            <meta-data
-52-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44:40
-53                android:name="unityplayer.UnityActivity"
-53-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-57
-54                android:value="true" />
-54-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-37
-55            <meta-data
-55-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
-56                android:name="android.notch_support"
-56-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-53
-57                android:value="true" />
-57-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
-58        </activity>
-59
-60        <meta-data
-60-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:9-52:33
-61            android:name="unity.splash-mode"
-61-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-45
-62            android:value="0" />
-62-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-30
-63        <meta-data
-63-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:36
-64            android:name="unity.splash-enable"
-64-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-47
-65            android:value="True" />
-65-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-33
-66        <meta-data
-66-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:37
-67            android:name="unity.allow-resizable-window"
-67-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-56
-68            android:value="False" />
-68-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-34
-69        <meta-data
-69-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:50
-70            android:name="notch.config"
-70-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-40
-71            android:value="portrait|landscape" />
-71-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-47
-72        <meta-data
-72-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:68
-73            android:name="unity.build-id"
-73-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-42
-74            android:value="044e2211-9e06-447e-9167-f0086aa26509" />
-74-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-65
+34    <uses-permission android:name="android.permission.WAKE_LOCK" />
+34-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:19:3-66
+34-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:19:20-63
+35    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+35-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:20:3-77
+35-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:20:20-74
+36    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- Include required permissions for Google Mobile Ads to run -->
+36-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:21:3-79
+36-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:21:20-76
+37    <uses-permission android:name="android.permission.INTERNET" /> <!-- Android package visibility setting -->
+37-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:20:3-65
+37-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:20:20-62
+38    <queries>
+38-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:23:3-36:13
+39
+40        <!-- For browser content -->
+41        <intent>
+41-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:25:5-29:14
+42            <action android:name="android.intent.action.VIEW" />
+42-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:26:7-59
+42-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:26:15-56
+43
+44            <category android:name="android.intent.category.BROWSABLE" />
+44-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:27:7-68
+44-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:27:17-65
+45
+46            <data android:scheme="https" />
+46-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:28:7-38
+46-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:28:13-35
+47        </intent>
+48        <!-- End of browser content -->
+49        <!-- For CustomTabsService -->
+50        <intent>
+50-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:25:5-29:14
+51            <action android:name="android.support.customtabs.action.CustomTabsService" />
+52        </intent>
+53        <!-- End of CustomTabsService -->
+54    </queries>
+55
+56    <application
+56-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-159
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[:androidx.core.core-1.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/androidx.core.core-1.2.0/AndroidManifest.xml:24:18-86
+58        android:extractNativeLibs="true"
+58-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+59        android:icon="@mipmap/app_icon"
+59-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+60        android:label="@string/app_name"
+60-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+61        android:roundIcon="@mipmap/app_icon_round" >
+61-->/Users/miahome/PowersOf2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:114-156
+62        <activity
+62-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-48:20
+63            android:name="com.unity3d.player.UnityPlayerActivity"
+63-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-66
+64            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+64-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-194
+65            android:hardwareAccelerated="false"
+65-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-48
+66            android:launchMode="singleTask"
+66-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-44
+67            android:resizeableActivity="false"
+67-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-47
+68            android:screenOrientation="portrait"
+68-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-49
+69            android:theme="@style/UnityThemeSelector" >
+69-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-54
+70            <intent-filter>
+70-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-40:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:17-69
+71-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:17-77
+73-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:27-74
+74            </intent-filter>
 75
-76        <receiver
-76-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:39
-77            android:name="com.unity.androidnotifications.UnityNotificationManager"
-77-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-83
-78            android:exported="true" />
-78-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-36
-79        <receiver
-79-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:9-75:20
-80            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
-80-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-97
-81            android:enabled="false" >
-81-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-36
-82            <intent-filter>
-82-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-74:29
-83                <action android:name="android.intent.action.BOOT_COMPLETED" />
-83-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:17-79
-83-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:25-76
-84            </intent-filter>
-85        </receiver>
-86    </application>
-87
-88</manifest>
+76            <meta-data
+76-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44:40
+77                android:name="unityplayer.UnityActivity"
+77-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-57
+78                android:value="true" />
+78-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-37
+79            <meta-data
+79-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
+80                android:name="android.notch_support"
+80-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-53
+81                android:value="true" />
+81-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
+82        </activity>
+83
+84        <meta-data
+84-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:9-52:33
+85            android:name="unity.splash-mode"
+85-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-45
+86            android:value="0" />
+86-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-30
+87        <meta-data
+87-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:36
+88            android:name="unity.splash-enable"
+88-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-47
+89            android:value="True" />
+89-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-33
+90        <meta-data
+90-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:37
+91            android:name="unity.allow-resizable-window"
+91-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-56
+92            android:value="False" />
+92-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-34
+93        <meta-data
+93-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:50
+94            android:name="notch.config"
+94-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-40
+95            android:value="portrait|landscape" />
+95-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-47
+96        <meta-data
+96-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:68
+97            android:name="unity.build-id"
+97-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-42
+98            android:value="b09c9278-3ae4-42fb-9fb5-8cb382fc4ac9" />
+98-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-65
+99
+100        <receiver
+100-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:39
+101            android:name="com.unity.androidnotifications.UnityNotificationManager"
+101-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-83
+102            android:exported="true" />
+102-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-36
+103        <receiver
+103-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:9-75:20
+104            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
+104-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-97
+105            android:enabled="false" >
+105-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-36
+106            <intent-filter>
+106-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-74:29
+107                <action android:name="android.intent.action.BOOT_COMPLETED" />
+107-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:17-79
+107-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:25-76
+108            </intent-filter>
+109        </receiver>
+110
+111        <service
+111-->[:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+112            android:name="androidx.room.MultiInstanceInvalidationService"
+112-->[:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+113            android:exported="false" />
+113-->[:androidx.room.room-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/95c1f2c1fb7134414f5591ef8e4084e1/androidx.room.room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+114
+115        <provider
+115-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:5-265
+116            android:name="androidx.work.impl.WorkManagerInitializer"
+116-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:15-71
+117            android:authorities="com.DefaultCompany.com.unity.template.mobile2D.workmanager-init"
+117-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:72-157
+118            android:directBootAware="false"
+118-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:158-189
+119            android:exported="false"
+119-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:190-214
+120            android:multiprocess="true" />
+120-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:23:215-242
+121
+122        <service
+122-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:5-229
+123            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+123-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:14-89
+124            android:directBootAware="false"
+124-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:90-121
+125            android:enabled="@bool/enable_system_alarm_service_default"
+125-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:122-181
+126            android:exported="false" />
+126-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:24:182-206
+127        <service
+127-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:5-279
+128            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+128-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:14-85
+129            android:directBootAware="false"
+129-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:86-117
+130            android:enabled="@bool/enable_system_job_service_default"
+130-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:118-175
+131            android:exported="true"
+131-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:176-199
+132            android:permission="android.permission.BIND_JOB_SERVICE" />
+132-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:25:200-256
+133
+134        <receiver
+134-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:5-193
+135            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+135-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:15-90
+136            android:directBootAware="false"
+136-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:91-122
+137            android:enabled="true"
+137-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:123-145
+138            android:exported="false" />
+138-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:26:146-170
+139        <receiver
+139-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:5-32:16
+140            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+140-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:15-108
+141            android:directBootAware="false"
+141-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:109-140
+142            android:enabled="false"
+142-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:141-164
+143            android:exported="false" >
+143-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:27:165-189
+144            <intent-filter>
+144-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:28:7-31:23
+145                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+145-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:29:9-79
+145-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:29:17-76
+146                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+146-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:30:9-82
+146-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:30:17-79
+147            </intent-filter>
+148        </receiver>
+149        <receiver
+149-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:5-38:16
+150            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+150-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:15-106
+151            android:directBootAware="false"
+151-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:107-138
+152            android:enabled="false"
+152-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:139-162
+153            android:exported="false" >
+153-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:33:163-187
+154            <intent-filter>
+154-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:34:7-37:23
+155                <action android:name="android.intent.action.BATTERY_OKAY" />
+155-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:35:9-69
+155-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:35:17-66
+156                <action android:name="android.intent.action.BATTERY_LOW" />
+156-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:36:9-68
+156-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:36:17-65
+157            </intent-filter>
+158        </receiver>
+159        <receiver
+159-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:5-44:16
+160            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+160-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:15-106
+161            android:directBootAware="false"
+161-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:107-138
+162            android:enabled="false"
+162-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:139-162
+163            android:exported="false" >
+163-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:39:163-187
+164            <intent-filter>
+164-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:40:7-43:23
+165                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+165-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:41:9-75
+165-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:41:17-72
+166                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+166-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:42:9-74
+166-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:42:17-71
+167            </intent-filter>
+168        </receiver>
+169        <receiver
+169-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:5-49:16
+170            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+170-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:15-105
+171            android:directBootAware="false"
+171-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:106-137
+172            android:enabled="false"
+172-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:138-161
+173            android:exported="false" >
+173-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:45:162-186
+174            <intent-filter>
+174-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:46:7-48:23
+175                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+175-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:47:9-71
+175-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:47:17-68
+176            </intent-filter>
+177        </receiver>
+178        <receiver
+178-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:5-56:16
+179            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+179-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:15-90
+180            android:directBootAware="false"
+180-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:91-122
+181            android:enabled="false"
+181-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:123-146
+182            android:exported="false" >
+182-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:50:147-171
+183            <intent-filter>
+183-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:51:7-55:23
+184                <action android:name="android.intent.action.BOOT_COMPLETED" />
+184-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:17-79
+184-->[:unityLibrary] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:25-76
+185                <action android:name="android.intent.action.TIME_SET" />
+185-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:53:9-65
+185-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:53:17-62
+186                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+186-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:54:9-73
+186-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:54:17-70
+187            </intent-filter>
+188        </receiver>
+189        <receiver
+189-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:5-61:16
+190            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+190-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:15-101
+191            android:directBootAware="false"
+191-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:102-133
+192            android:enabled="@bool/enable_system_alarm_service_default"
+192-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:134-193
+193            android:exported="false" >
+193-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:57:194-218
+194            <intent-filter>
+194-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:58:7-60:23
+195                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+195-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:59:9-90
+195-->[:androidx.work.work-runtime-2.1.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/bebec550de14d55ae7500a8093e87698/androidx.work.work-runtime-2.1.0/AndroidManifest.xml:59:17-87
+196            </intent-filter>
+197        </receiver> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+198        <activity
+198-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:5-254
+199            android:name="com.google.android.gms.ads.AdActivity"
+199-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:15-67
+200            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+200-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:68-177
+201            android:exported="false"
+201-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:178-202
+202            android:theme="@android:style/Theme.Translucent" />
+202-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:39:203-251
+203
+204        <provider
+204-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:5-221
+205            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+205-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:15-78
+206            android:authorities="com.DefaultCompany.com.unity.template.mobile2D.mobileadsinitprovider"
+206-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:79-169
+207            android:exported="false"
+207-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:170-194
+208            android:initOrder="100" />
+208-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:40:195-218
+209
+210        <service
+210-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:5-116
+211            android:name="com.google.android.gms.ads.AdService"
+211-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:14-65
+212            android:enabled="true"
+212-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:66-88
+213            android:exported="false" />
+213-->[:com.google.android.gms.play-services-ads-lite-20.2.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/0e59bd60d8e835a31422831b2b6ca5df/com.google.android.gms.play-services-ads-lite-20.2.0/AndroidManifest.xml:41:89-113
+214
+215        <meta-data
+215-->[:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+216            android:name="com.google.android.gms.version"
+216-->[:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+217            android:value="@integer/google_play_services_version" />
+217-->[:com.google.android.gms.play-services-basement-17.6.0:] /Users/miahome/.gradle/caches/transforms-2/files-2.1/cb42bf65788b9c799eef64f2ab3f7718/com.google.android.gms.play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+218
+219        <uses-library
+219-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-14:40
+220            android:name="org.apache.http.legacy"
+220-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-50
+221            android:required="false" />
+221-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+222
+223        <meta-data
+223-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-18:70
+224            android:name="com.google.android.gms.ads.APPLICATION_ID"
+224-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-69
+225            android:value="ca-app-pub-7825711635496328~1706563834" />
+225-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] /Users/miahome/PowersOf2/Temp/gradleOut/unityLibrary/GoogleMobileAdsPlugin.androidlib/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-67
+226    </application>
+227
+228</manifest>
